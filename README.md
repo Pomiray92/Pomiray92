@@ -8,6 +8,7 @@ Ich spreche Deutsch/Englisch/Russisch/Tadschikisch/Persisch und Pamirisch.
 
 Ich bin unter +49 176 414 87963/soma.gulov@gmail.com erreichbar. Gerne können Sie mir Ihre Angebote zuzuschicken!
 
+Python 
 <!--
 **Pomiray92/Pomiray92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
