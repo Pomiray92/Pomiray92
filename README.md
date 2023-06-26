@@ -1,6 +1,6 @@
 ### Hi there 👋/ Hallo
 
-Ich habe gerade einen Kurs als 'Python Backend Developer' abgeschlossen und bin bei der 'System Solutions GmbH' als Praktikant tätig.
+Ich habe gerade einen Kurs als 'Python Backend Developer' abgeschlossen und bin bei der 'M&S System Solutions GmbH' als Praktikant tätig.
 
 Ich suche gerade nach einem Job als Entwickler.
 
