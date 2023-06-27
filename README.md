@@ -8,7 +8,7 @@ Ich spreche Deutsch/Englisch/Russisch/Tadschikisch/Persisch und Pamirisch.
 
 Ich bin unter +49 176 414 87963/soma.gulov@gmail.com erreichbar. Gerne können Sie mir Ihre Angebote zuzuschicken!
 
-Programierung Sprachen: 
+### IT-Kenntnisse: 
 
 ---
 ### :hammer_and_wrench: Languages :  <img alt="Python" src="icons\python.png" width="50" height="50"> <img src="icons\html-5.png" width="50" height="50"> <img src="icons\css-3.png" width="50" height="50">
