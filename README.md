@@ -13,7 +13,7 @@ Programierung Sprachen:
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-<img src="C:\Users\POS\Desktop\somon\icons\python.png" width="30" height="30">
+<img src="icons\python.png" width="30" height="30"> <img src="icons\html-5.png" width="30" height="30"> <img src="icons\css-3.png" width="30" height="30">
 
 
 <!--
