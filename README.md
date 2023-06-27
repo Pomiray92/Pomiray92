@@ -11,9 +11,15 @@ Ich bin unter +49 176 414 87963/soma.gulov@gmail.com erreichbar. Gerne können S
 Programierung Sprachen: 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :  <img alt="Python" src="icons\python.png" width="50" height="50"> <img src="icons\html-5.png" width="50" height="50"> <img src="icons\css-3.png" width="50" height="50">
 
-<img src="icons\python.png" width="30" height="30"> <img src="icons\html-5.png" width="30" height="30"> <img src="icons\css-3.png" width="30" height="30">
+
+
+### :hammer_and_wrench: Frameworks & Tools :   <img src="icons\django.png" width="50" height="50"> <img src="icons\flask.png" width="50" height="50"> <img src="icons\docker.png" width="50" height="50"> <img src="icons\api.png" width="50" height="50">
+
+
+
+### :hammer_and_wrench: DATABASE :   <img src="icons\postgresql.png" width="50" height="50">
 
 
 <!--
