@@ -10,7 +10,7 @@ Ich bin unter +49 176 414 87963/soma.gulov@gmail.com erreichbar. Gerne können S
 
 Programierung Sprachen: 
 
-<img src="C:\Users\POS\Desktop\somon\icons\python.svg" alt="Programming Language Icon" width="30" height="30"> <!-- Add this code for each programming language -->
+<img src="C:\Users\POS\Desktop\somon\icons\python.png" alt="Python" width="30" height="30"> <!-- Add this code for each programming language -->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
