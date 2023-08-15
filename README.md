@@ -1,12 +1,12 @@
 ### Hi there 👋/ Hallo
 
-Ich habe gerade einen Kurs als 'Python Backend Developer' abgeschlossen und bin bei der 'M&S System Solutions GmbH' als Praktikant tätig.
+Ich habe gerade erfolgreich einen Kurs als 'Python Backend Developer' abgeschlossen und währenddessen mein Praktikum bei der 'M&S System Solutions GmbH' absolviert.
 
-Ich suche gerade nach einem Job als Entwickler.
+Derzeit bin ich auf der Suche nach einer festen Anstellung als Entwickler.
 
-Ich spreche Deutsch/Englisch/Russisch/Tadschikisch/Persisch und Pamirisch.
+Ich beherrsche die Sprachen Deutsch, Englisch, Russisch, Tadschikisch, Persisch und Pamirisch.
 
-Ich bin unter +49 176 414 87963/soma.gulov@gmail.com erreichbar. Gerne können Sie mir Ihre Angebote zuzuschicken!
+Sie können mich unter +49 176 414 87963 oder per E-Mail an soma.gulov@gmail.com erreichen. Ich würde mich freuen, von Ihnen Angebote zu erhalten!
 
 ### IT-Kenntnisse: 
 
