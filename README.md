@@ -2,9 +2,9 @@
 
 Ich habe gerade erfolgreich einen Kurs als 'Python Backend Developer' abgeschlossen und währenddessen mein Praktikum bei der 'M&S System Solutions GmbH' absolviert.
 
-Derzeit lerne ich JavaScrip und bin auf der Suche nach einer festen Anstellung als Entwickler.
+Derzeit lerne ich JavaScript und bin ich auf der Suche nach einer festen Anstellung als Entwickler.
 
-Ich beherrsche die Sprachen Deutsch, Englisch, Russisch, Tadschikisch, Persisch und Pamirisch und Lerne Spanish. Hola 👋!
+Ich beherrsche die Sprachen Deutsch, Englisch, Russisch, Tadschikisch, Persisch, Pamirisch und lerne Spanisch. Hola 👋.
 
 Sie können mich unter +49 176 414 87963 oder per E-Mail an soma.gulov@gmail.com erreichen. Ich würde mich freuen, von Ihnen Angebote zu erhalten!
 
